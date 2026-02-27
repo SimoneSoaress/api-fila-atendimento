@@ -71,5 +71,22 @@ Você pode testar a API rodando diretamente na nuvem:
 
 🔗 Acessar API no Heroku
 
-📝 Autor
-Desenvolvido por Simone Mayara
+---
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/SimoneSoaress/Estrutura_de_Dados/main/SimoneMayara(icon-1)-Photoroom.jpg" width="45" height="45" style="border-radius:50%">
+      </td>
+      <td>
+        <font size="5">Desenvolvido por <b>Simone Mayara Soares</b></font>
+      </td>
+    </tr>
+  </table>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mayaradsoaress/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    &nbsp;
+    <a href="https://github.com/SimoneSoaress" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  </p>
+</div>
